@@ -1,2 +1,6 @@
-# desafio-padroes-projeto-dio
+# Aplicando conhecimento sobre padrões de projeto
 Desafio padrões de projeto Digital Innovation One
+
+Criado um mini projeto aplicando o padrão Singleton
+O Singleton é muito utilizado para evitar que sejam criadas várias conexões simultâneas com o banco de dados.
+Portanto esse padrão de projeto se torna eficaz para tal tarefa, conforme exemplificado nesse projeto
