@@ -1,4 +1,4 @@
-# Aplicando conhecimento sobre padrões de projeto
+# Aplicando conhecimento sobre o padrão de projeto Singleton
 Desafio padrões de projeto Digital Innovation One
 
 Criado um mini projeto aplicando o padrão Singleton
